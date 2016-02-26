@@ -1,5 +1,5 @@
 %base Gillespie Algorithm for general purpose simulations.
-
+%just trying something out with the editing
 clear all
 close all
 rand('state',sum(100*clock)); %#ok<RAND>
